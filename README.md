@@ -14,7 +14,7 @@ This repository contains a script for performing RNA-Seq data analysis and quali
 ## Installation
 1. Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/sivkri/miRNASeq-DE-Analysis-QC
    ```
 2. Make sure you have the necessary dependencies installed (listed in the Prerequisites section).
 
@@ -26,13 +26,13 @@ This repository contains a script for performing RNA-Seq data analysis and quali
 ## Prerequisites
 Make sure you have the following dependencies installed:
 
-- R (version X.X.X)
-- DESeq2 package (version X.X.X)
-- gplots package (version X.X.X)
-- ggplot2 package (version X.X.X)
-- pheatmap package (version X.X.X)
-- RColorBrewer package (version X.X.X)
-- scatterplot3d package (version X.X.X)
+- R
+- DESeq2 package
+- gplots package
+- ggplot2 package
+- pheatmap package
+- RColorBrewer package
+- scatterplot3d package
 
 You can install the packages using the following commands in R:
 ```R
