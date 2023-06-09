@@ -1,4 +1,4 @@
-# Differential-expression-analysis-miRNA
+# miRNASeq-DE-Analysis-QC
 
 The R script will give the Differential expression analysis of miRNA counts from two samples with two conditions, followed by QC analysis such as Pheatmap, 3D plot, Dispersion plot, PCA, scree plot, plotcounts, sample to sample distance plot, volcano plot
 
@@ -8,24 +8,8 @@ This will give results of TWO WAY ANOVA
 
 PS: This is an sample script and not to be used for any publication reference.
 
-
-```markdown
-# RNA-Seq Data Analysis and Quality Control
-
 This repository contains a script for performing RNA-Seq data analysis and quality control using the DESeq2 package in R. The script provides various functions to analyze and visualize differential gene expression, perform quality control checks, and generate informative plots.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Prerequisites](#prerequisites)
-- [Script Details](#script-details)
-  - [Importing Libraries](#importing-libraries)
-  - [Importing Data](#importing-data)
-  - [Differential Expression Analysis](#differential-expression-analysis)
-  - [Visualization](#visualization)
-  - [Output](#output)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 1. Clone this repository to your local machine using the following command:
